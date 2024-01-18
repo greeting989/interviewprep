@@ -1,3 +1,5 @@
+/*
+star-rating
 .star-rating{
   display: flex;
   justify-content: center;
@@ -20,7 +22,10 @@ button {
 }
 .star{
  font-size: 2rem;
-}
-body {
-  padding: 100px;
+} */
+
+.accodionTitle{
+  text-align: center;
+  font-size: 1.2rem;
+ margin: 28px 20px;
 }
